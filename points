@@ -6,3 +6,5 @@ for ( var i = 0; i < geometry.faces.length; i ++ ) {
 }
 
 var material = new THREE.MeshBasicMaterial( { color: 0xffffff, vertexColors: THREE.FaceColors } );
+hai hello
+
