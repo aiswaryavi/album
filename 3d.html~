@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>3D Web Album</title>
+        <link rel="stylesheet" type="text/css" href="css/ind.css">
+        	
+    </head>
+    
+    <body>
+    	<div id="headerArea">
+        	<header>3D-ALBUM</header>
+        </div>
+    	<div id="canArea">
+			<canvas id="myCanvas"></canvas> 
+		</div>
+		<div id="buttons">
+			<P>
+				<input type ="button" value="PAUSE" >
+			</P>
+		</div>
+		<div id="footArea">
+			<footer>ADD REMOVE AND VIEW YOUR 3D IMAGES WITH THE 3D ALBUM</footer>
+		</div>
+		<p>
+		hello</p>
+    </body>
+</html>
