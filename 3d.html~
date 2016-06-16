@@ -8,7 +8,6 @@
     </head>
     
     <body>
-    <div)
     	<div id="headerArea">
         	<header>3D-ALBUM</header>
         </div>
@@ -23,6 +22,7 @@
 		<div id="footArea">
 			<footer>ADD REMOVE AND VIEW YOUR 3D IMAGES WITH THE 3D ALBUM</footer>
 		</div>
-		</div>
+		<p>
+		hello</p>
     </body>
 </html>
